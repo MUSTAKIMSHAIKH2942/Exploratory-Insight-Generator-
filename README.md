@@ -18,7 +18,7 @@ The **Exploratory Data Analysis (EDA) Pipeline** is a comprehensive Python-based
 ## Directory Structure
 
 The project directory is organized as follows:
-![EDA Pipeline](https://github.com/MUSTAKIMSHAIKH2942/Exploratory-Insight-Generator-/blob/main/EDA.png)
+![Directory Structure Pic](https://github.com/MUSTAKIMSHAIKH2942/Exploratory-Insight-Generator-/blob/main/leftpannel.PNG)
 
 ## Installation
 
