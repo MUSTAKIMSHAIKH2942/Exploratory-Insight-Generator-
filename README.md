@@ -18,23 +18,7 @@ The **Exploratory Data Analysis (EDA) Pipeline** is a comprehensive Python-based
 ## Directory Structure
 
 The project directory is organized as follows:
-
-project_folder/   
-            ├── eda/ 
-            │ ├── eda_main.py # Main script to run EDA 
-            │ ├── data_summary.py # Module to generate summary statistics 
-            │ ├── missing_values_analysis.py # Module to analyze missing values 
-            │ ├── distribution_visualization.py # Module for distribution plots 
-            │ ├── correlation_analysis.py # Module for correlation matrix 
-            │ └── categorical_analysis.py # Module for categorical feature analysis 
-            ├── data/ 
-            │ ├── train/ # Training data folder 
-            │ │ └── train.csv # Training dataset in CSV format 
-            │ └── eda_results/ # Folder to save EDA results and report 
-            │ ├── report.md # Markdown report generated after analysis 
-            │ └── <image_files> # Various generated images (e.g., distribution plots) 
-            ├── images/ │ └── eda_pipeline.png # Flowchart or image illustrating the EDA process └── requirements.txt # Required Python packages   
-
+![EDA Pipeline](https://github.com/MUSTAKIMSHAIKH2942/Exploratory-Insight-Generator-/blob/main/EDA.png)
 
 ## Installation
 
