@@ -15,9 +15,10 @@ The **Exploratory Data Analysis (EDA) Pipeline** is a comprehensive Python-based
 - **Correlation Analysis**: Calculates and visualizes the correlation matrix of numerical variables.
 - **Categorical Features Analysis**: Visualizes the distribution of categorical variables.
 
-## Directory Structure
+## Directory Structure   
+"The project directory is organized as follows:"
 
-The project directory is organized as follows:
+
 ![Directory Structure Pic](https://github.com/MUSTAKIMSHAIKH2942/Exploratory-Insight-Generator-/blob/main/leftpannel.PNG)
 
 ## Installation
