@@ -52,8 +52,8 @@ Various PNG files corresponding to generated visualizations (e.g., distribution 
 
 <!-- Add a screenshot of the report or example visualizations -->
 
-##Code Explanation
-##1. Main Script: eda_main.py
+## Code Explanation
+## 1. Main Script: eda_main.py
 The main script controls the EDA process and performs the following tasks:
 
 Imports Necessary Modules: This includes functions from various analysis modules.
@@ -75,7 +75,7 @@ Calls run_categorical_analysis for categorical data insights.
 Logging Information
 The script utilizes Python's logging module to log the execution steps, making it easier to debug and track the process.
 
-##2. Individual Modules
+## 2. Individual Modules
 data_summary.py:
 
 Contains functions to calculate summary statistics of the dataset, such as mean, median, and standard deviation.
@@ -94,16 +94,16 @@ Analyzes categorical features and produces count plots to visualize their distri
 Contribution
 Contributions to the EDA Pipeline are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
-##License
-##This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+## This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgements
+## Acknowledgements
 Inspired by various data analysis frameworks and the Python data science community.
 Thanks to the libraries used: Pandas, NumPy, Matplotlib, and Seaborn for their invaluable contributions to data analysis and visualization.
 Conclusion
 This EDA pipeline provides a structured and automated approach to exploratory data analysis, making it easier to derive insights from datasets. By following the outlined steps, you can efficiently analyze your data and generate comprehensive reports.
 
-##Summary
+## Summary
 This README.md file includes:
 
 A project overview with images and structured sections.
