@@ -95,7 +95,7 @@ Contribution
 Contributions to the EDA Pipeline are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
 ## License
-## This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 Inspired by various data analysis frameworks and the Python data science community.
