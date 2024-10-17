@@ -10,6 +10,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'e
 
 from extract_zip.zip_extractor import process_zip_file
 
+
 if __name__ == "__main__":
     # Define the source folder where your ZIP files are stored
     source_folder = os.path.join('data', 'source')
