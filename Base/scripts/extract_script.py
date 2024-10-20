@@ -14,6 +14,7 @@ from extract_zip.zip_extractor import process_zip_file
 if __name__ == "__main__":
     # Define the source folder where your ZIP files are stored
     source_folder = os.path.join('data', 'source')
+
     
     # Define the base data folder where projects will be dynamically created
     data_folder = os.path.join('data', 'target')
