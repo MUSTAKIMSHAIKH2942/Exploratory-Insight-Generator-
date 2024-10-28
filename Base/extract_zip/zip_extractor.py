@@ -10,6 +10,7 @@ def create_directory(path):
     try:
         os.makedirs(path, exist_ok=True)
         logging.info(f"Created directory: {path}")
+
     except Exception as e:
         logging.error(f"Error creating directory {path}: {e}")
 
