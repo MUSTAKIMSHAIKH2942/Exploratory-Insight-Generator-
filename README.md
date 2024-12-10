@@ -6,6 +6,7 @@
 ## Overview
 The **Exploratory Data Analysis (EDA) Pipeline** is a comprehensive Python-based framework designed to facilitate the analysis of datasets. This pipeline automates the process of generating insightful summaries, visualizations, and reports that aid in understanding the underlying patterns and anomalies in the data.
 
+
 ## Key Features
 - **Summary Statistics**: Automatically generates statistical summaries of the dataset.
 - **Missing Values Analysis**: Identifies and visualizes missing data points.
