@@ -1,4 +1,5 @@
 # Base-of-start-for-ML
+
 ## Exploratory Data Analysis (EDA) Pipeline
 
 ![EDA Pipeline](https://github.com/MUSTAKIMSHAIKH2942/Exploratory-Insight-Generator-/blob/main/EDA.png)  <!-- Add an image illustrating the EDA process -->
