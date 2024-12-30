@@ -2,6 +2,7 @@
 
 ## Exploratory Data Analysis (EDA) Pipeline
 
+
 ![EDA Pipeline](https://github.com/MUSTAKIMSHAIKH2942/Exploratory-Insight-Generator-/blob/main/EDA.png)  <!-- Add an image illustrating the EDA process -->
 ## Overview
 The **Exploratory Data Analysis (EDA) Pipeline** is a comprehensive Python-based framework designed to facilitate the analysis of datasets. This pipeline automates the process of generating insightful summaries, visualizations, and reports that aid in understanding the underlying patterns and anomalies in the data.
