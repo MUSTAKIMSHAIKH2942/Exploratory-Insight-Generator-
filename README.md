@@ -16,6 +16,7 @@ The **Exploratory Data Analysis (EDA) Pipeline** is a comprehensive Python-based
 - **Categorical Features Analysis**: Visualizes the distribution of categorical variables.
 
 ## Directory Structure   
+
 "The project directory is organized as follows:"
 
 
